@@ -1,0 +1,11 @@
+version: "3.5"
+
+services:
+  swagger:
+    image: laquay/docker-swagger:1.0.0
+    volumes:
+    - ./swagger.example.1.yaml:/app/swagger.yaml
+    env_file:
+    - .env
+    ports:
+    - "8081:80"

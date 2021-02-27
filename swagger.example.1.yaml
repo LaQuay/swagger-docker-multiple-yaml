@@ -1,0 +1,20 @@
+openapi: 3.0.0
+info:
+  description:
+    This is the test file 1.
+  version: 1.0.0
+  title: Test 1
+tags:
+- name: test
+  description: .
+paths:
+  '/test':
+    get:
+      tags:
+      - test
+      summary: Just a test
+      description: ''
+      operationId: getTest
+      responses:
+        '200':
+          description: ''
