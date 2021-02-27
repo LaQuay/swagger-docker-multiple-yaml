@@ -6,6 +6,8 @@
 # SWAGGER_X_NAME Title of the Swagger file
 # SWAGGER_X_FILE File that will be added to the general Swagger environment
 # SWAGGER_X_ENDPOINT The endpoint of the API (SERVER_URL + SWAGGER_N_ENDPOINT) = FULL_URL
+#
+# More info in README.md
 
 SERVER_URL=YOUR_BASE_SERVER_URL
 SWAGGER_NUMBER=3
