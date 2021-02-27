@@ -40,8 +40,8 @@ Run the following command to run the configuration of the endpoints for the proj
 
 ### Screenshots
 
-![Swagger with Test 1](img/sample_test_1.jpg?raw=true "Swagger with Test 1")
+![Swagger with Test 1](img/sample_test_1.png?raw=true "Swagger with Test 1")
 
-![Swagger with Selector](img/sample_selector.jpg?raw=true "Swagger with Selector")
+![Swagger with Selector](img/sample_selector.png?raw=true "Swagger with Selector")
 
-![Swagger with Test 2](img/sample_test_2.jpg?raw=true "Swagger with Test 2")
+![Swagger with Test 2](img/sample_test_2.png?raw=true "Swagger with Test 2")
